@@ -4,3 +4,4 @@ dist
 *.local
 _analysis/
 /Manish_Resume.pdf
+.claude/
