@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"C:/Users/vaibh/Downloads/portfolio\" 2>&1 | head -n 100; echo \"---\"; ls -la \"C:/Users/vaibh/Downloads/Manish_Resume.pdf\" 2>&1)",
+      "Bash(python -I -c ' *)",
+      "Bash(npm create *)",
+      "Bash(npm -v)"
+    ]
+  }
+}
